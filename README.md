@@ -33,7 +33,7 @@ Plataformas interativas permitem que as pessoas adquiram conhecimento de forma a
 - Desafios e Jogos: 
 O app oferecerá atividades lúdicas e desafios que recompensem comportamentos sustentáveis.
 
--Informações Educativas: 
+- Informações Educativas: 
 Conteúdo interativo e atraente sobre energia sustentável, mudanças climáticas e práticas ecológicas.
 
 ## Benefícios do Uso do Aplicativo para a Sociedade
