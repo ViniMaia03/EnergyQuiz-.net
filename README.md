@@ -20,20 +20,20 @@ A poluição do ar, da água e do solo, resultante do uso de energia não susten
 
 ## Como a Gamificação e Educação Lúdica Podem Engajar as Pessoas
 
-- Conscientização
+- Conscientização: 
 Atividades lúdicas e gamificadas ajudam a transmitir informações de maneira atrativa e memorável.
 
-- Engajamento
+- Engajamento: 
 Ao tornar a aprendizagem sobre energia sustentável divertida, as pessoas se sentem mais motivadas a adotar práticas sustentáveis.
 
-- Educação
+- Educação: 
 Plataformas interativas permitem que as pessoas adquiram conhecimento de forma ativa e envolvente.
 
 ## Características e Funcionalidades do Aplicativo Proposto
-- Desafios e Jogos
+- Desafios e Jogos: 
 O app oferecerá atividades lúdicas e desafios que recompensem comportamentos sustentáveis.
 
--Informações Educativas
+-Informações Educativas: 
 Conteúdo interativo e atraente sobre energia sustentável, mudanças climáticas e práticas ecológicas.
 
 ## Benefícios do Uso do Aplicativo para a Sociedade
