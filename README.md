@@ -43,3 +43,8 @@ Conteúdo interativo e atraente sobre energia sustentável, mudanças climática
 
 ## Conclusão
 O aplicativo proposto é uma solução inovadora para engajar a sociedade na adoção de práticas sustentáveis, contribuindo para um futuro mais verde e saudável.
+
+### Integrantes
+- José Alexandre de Farias RM553973
+- Lorenzo Augusto Vaz Francisco RM553941
+- Vinicius Maia Santos RM552969
